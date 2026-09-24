@@ -1,15 +1,6 @@
 {
-  "originHash" : "df195b12c1f6bd471af1cacb709842cb7eb355cce32fee1413f0f7d7aa5c4eb2",
+  "originHash" : "f1e1257b2b6f49d4a2249ee595030e60931b7b84f7eee8197554bac73d4e024c",
   "pins" : [
-    {
-      "identity" : "keyboardshortcuts",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/sindresorhus/KeyboardShortcuts",
-      "state" : {
-        "revision" : "ac12762853126cf2e7ad63a6a58e1c9f58c6a0ee",
-        "version" : "1.17.0"
-      }
-    },
     {
       "identity" : "mediakeytap",
       "kind" : "remoteSourceControl",
@@ -24,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/sindresorhus/Settings",
       "state" : {
-        "revision" : "f41475771f65379ca10852c95119a7f53f0de5a5",
-        "version" : "3.1.2"
+        "branch" : "main",
+        "revision" : "879ea83a7bbc6dbebf62bed8c547f090146372a6"
       }
     },
     {
@@ -33,8 +24,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/rnine/SimplyCoreAudio",
       "state" : {
-        "revision" : "35cc0e6eac5c2ee5049431f4238b0e333cf79869",
-        "version" : "4.1.1"
+        "revision" : "75970285e2470f12a569cdff68ef5a75498a4646"
       }
     },
     {
@@ -42,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/sparkle-project/Sparkle",
       "state" : {
-        "revision" : "d46d456107feacc80711b21847b82b07bd9fb46e",
-        "version" : "2.9.3"
+        "branch" : "2.x",
+        "revision" : "9042c8dbd9c6f6a1bebc2e4c4b878eac6984ddbd"
       }
     },
     {
@@ -51,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-atomics.git",
       "state" : {
-        "revision" : "b601256eab081c0f92f059e12818ac1d4f178ff7",
-        "version" : "1.3.0"
+        "revision" : "3e95ba32cd1b4c877f6163e8eea54afc4e63bf9f",
+        "version" : "0.0.3"
       }
     }
   ],
